@@ -26,3 +26,6 @@ https://www.11ty.dev
 
 * **GitHub SSH**
 https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 
+
+* **Типографская раскладка**
+https://ilyabirman.ru/projects/typography-layout/
