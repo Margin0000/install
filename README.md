@@ -1,29 +1,28 @@
 # install
-Установка
 
-NodeJs
+* **NodeJs**
 https://nodejs.org/en/ 
 
-Gulp 
+* **Gulp**
 sudo npm install gulp-cli -g
 
-Git
+* **Git**
 https://git-scm.com/downloads
 
-Visual Studio Code
+* **Visual Studio Code**
 https://code.visualstudio.com/Download 
 
-Transmission
+* **Transmission**
 https://transmissionbt.com
 
-Brave
+* **Brave**
 https://brave.com/download/ 
 
-Telegram
+* **Telegram**
 https://desktop.telegram.org
 
-11ty
+* **11ty**
 https://www.11ty.dev
 
-GitHub SSH
+* **GitHub SSH**
 https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 
