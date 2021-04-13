@@ -1,7 +1,7 @@
 # install
 
 * **NodeJs**
-https://nodejs.org/en/ 
+https://nodejs.org/
 
 * **Gulp**
 sudo npm install gulp-cli -g
