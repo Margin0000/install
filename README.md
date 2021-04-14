@@ -28,7 +28,8 @@ https://desktop.telegram.org
 https://www.11ty.dev
 
 * **GitHub SSH**
-https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 
+  * https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+  * ssh-keyscan github.com >> ~/.ssh/known_hosts
 
 * **Типографская раскладка**
 https://ilyabirman.ru/projects/typography-layout/
