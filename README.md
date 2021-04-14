@@ -13,6 +13,7 @@ https://git-scm.com/downloads
 https://code.visualstudio.com/Download 
 
   * **Color Theme** https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+  * **Font** https://www.jetbrains.com/
 
 * **Transmission**
 https://transmissionbt.com
