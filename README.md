@@ -14,6 +14,14 @@ https://code.visualstudio.com/Download
 
   * **Color Theme** https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
   * **Font** https://www.jetbrains.com/
+  * Auto Rename Tag
+  * Beautify
+  * BEM Helper
+  * CSS Navigation
+  * eCSStractor
+  * Image Preview
+  * Project Manager
+  * Settings Sync
 
 * **Transmission**
 https://transmissionbt.com
