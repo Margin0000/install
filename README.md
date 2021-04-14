@@ -12,6 +12,8 @@ https://git-scm.com/downloads
 * **Visual Studio Code**
 https://code.visualstudio.com/Download 
 
+  * **Color Theme** https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+
 * **Transmission**
 https://transmissionbt.com
 
